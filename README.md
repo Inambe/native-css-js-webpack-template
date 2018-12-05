@@ -1,5 +1,3 @@
-Simple webpack project template for development using native CSS and JS.
-
 # Getting Started
 
 1. `clone` repository or download in `zip` format
